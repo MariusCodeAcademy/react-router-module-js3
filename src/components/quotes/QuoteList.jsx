@@ -21,3 +21,10 @@ const QuoteList = (props) => {
 };
 
 export default QuoteList;
+
+// QuoteList.jsx
+// virs saraso prideti div su klase "sorting" is importuoto css
+// viduje patalpinti mygtuka su pavadinimu sort Asc
+// prideti mygtuko handleri sortHandler()
+// handlerio viduje isrikiuoti gaunamus quotes abeceles(a-z) tvarka pagal autoriu
+// antra karta paspaudus isrikiavimo tvarka pasikeicia (z-a)
