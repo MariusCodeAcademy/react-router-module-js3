@@ -7,3 +7,5 @@ const NewQuote = () => {
 };
 
 export default NewQuote;
+
+// po add quote veiksmo programiskai nunaviguoti is sio(NewQuote) psl i AllQuotes puslapi

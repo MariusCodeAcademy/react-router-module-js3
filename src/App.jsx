@@ -40,4 +40,7 @@ domain.com/new-quote
 
 Sukurti puslapiu komponentus(pages)
 AllQuotes, NewQuote, QuoteDetails 
+
+
+Prideti 404 page not found salyga ir NotFound puslapio komponenta
 */
