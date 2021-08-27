@@ -9,11 +9,13 @@ const QuoteItem = (props) => {
         </blockquote>
         <figcaption>{props.author}</figcaption>
       </figure>
-      <a className='btn'>
-        View Fullscreen
-      </a>
+      <a className='btn'>View Fullscreen</a>
     </li>
   );
 };
+
+// <a className='btn'>
+//View Fullscreen turi vesti i quotes details puslapi
+//</a>
 
 export default QuoteItem;
