@@ -1,9 +1,11 @@
 import { useParams, Route } from 'react-router-dom';
 import Comments from '../components/comments/Comments';
+import { DUMMY_QUOTES } from './AllQuotes';
 
 const QuoteDetails = () => {
   const { quoteId } = useParams();
   console.log(quoteId);
+  // surasti ir atrinkti objeksta is DUMMY masyvo kuriame siuo metu yra puslapis
   return (
     <>
       <h2>QuoteDetails page</h2>
